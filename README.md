@@ -1,4 +1,4 @@
-# Coding-Sample-R-
+# R-Coding-Sample
 This is an independent exploratory study analyzing the 2018 elections for Senate in the United
 States. It contains end-to-end data cleaning, exploratory statistical analysis, and data visualizations. It integrates data from three secondary data source (1) the website FiveThirtyEight’s election forecast, (2) the context for the 2018 election from MIT Data Lab, and (3) historic Senate results from MIT Data Lab.  
 
