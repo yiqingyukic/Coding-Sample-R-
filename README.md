@@ -12,7 +12,7 @@ nominee in Arizona? And how it varied over time?
 3. Who is the candidate who is neither a Republican or Democrat who has the highest
 probability of victory at any point in any of 538’s models?
 
-4: How does the election context data compare to the results from New York Times?
+4. How does the election context data compare to the results from New York Times?
 
 5. How did democrat party’s eletoral support change between 2016 and 2018?
 
